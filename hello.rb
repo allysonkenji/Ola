@@ -2,5 +2,5 @@ require 'rubygems'
 require 'sinatra'
 
 get '/' do
-  "Hello from Sinatra on Heroku!"
+	"Olá, estamos no heroku ao vivo"
 end
